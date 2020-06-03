@@ -1,11 +1,12 @@
-* {
+body,
+html {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
 section {
-  height: 100hv;
+  height: 100vh;
   background-color: rgb(39, 41, 68);
   font-family: sans-serif;
 }
