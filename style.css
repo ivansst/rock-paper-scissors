@@ -90,3 +90,23 @@ div.fadeIn {
   opacity: 1;
   pointer-events: all;
 }
+
+@media screen and (max-width: 800px) {
+  section {
+    flex-direction: column;
+  }
+
+  .intro {
+    text-align: center;
+  }
+
+  .match h2 {
+    text-align: center;
+    font-size: 35px;
+  }
+
+  .hands,
+  .options {
+    flex-direction: column;
+  }
+}
