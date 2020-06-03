@@ -109,4 +109,15 @@ div.fadeIn {
   .options {
     flex-direction: column;
   }
+
+  .hands {
+    height: 150px;
+    width: 150;
+    margin-top: 50px;
+  }
+
+  .options {
+    margin-top: 250px;
+    height: 10px;
+  }
 }
